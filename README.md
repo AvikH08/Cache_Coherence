@@ -21,21 +21,9 @@ Before you begin, ensure you have the following installed on your system:
 You can copy and paste the following commands as a single block to get started:
 
 ```bash
-# Clone the repository
 git clone https://github.com/AvikH08/Cache_Coherence.git
-
-# Navigate to the project directory
 cd Cache_Coherence
-
-# Compile the project
 g++ main.cpp Processor.cpp Cache.cpp Bus.cpp Directory.cpp MainMemory.cpp AddressUtils.cpp -o main
-
-# Run the program (Windows)
-.\main
-
-# Run the program (Linux/MacOS)
-./main
-
 ```
 ### For Windows
 ```bash
