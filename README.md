@@ -35,3 +35,14 @@ g++ main.cpp Processor.cpp Cache.cpp Bus.cpp Directory.cpp MainMemory.cpp Addres
 
 # Run the program (Linux/MacOS)
 ./main
+
+```
+### For Windows
+```bash
+.\main
+```
+### For Linux/MacOS
+```bash
+./main
+```
+
